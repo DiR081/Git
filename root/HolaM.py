@@ -24,11 +24,7 @@ server.serve_forever()
 
 
 #
-
-
-# Hola Diro
-print('Hola Mundo')
-
+# Otra Parte
 #Como no puedo enviar por ahora parametros... entonces
 
 print('Vamos a Sumar dos Números')
@@ -41,9 +37,5 @@ def suma(a=0, b=0):
 	return a + b
 
 print(suma(4, 5))
-
-# Ahora Sumamos otra vez
-
-print(suma(5, 15))
 
 # Fin
