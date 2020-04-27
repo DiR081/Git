@@ -9,6 +9,7 @@ print('Vamos a Sumar dos Números')
 def suma(a=0, b=0):
 	"""  Este es la Suma."""
 	print('Suma dos valores...')
+	print(str(a) + ' + ' + str(b) + ' = ')
 	return a + b
 
 print(suma(4, 5))
