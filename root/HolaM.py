@@ -17,7 +17,7 @@ HTML = """
 	<Br>
 	<table>
 		<li>
-			{{ suma(4, 8) }}
+			{% suma(4, 8) %}
 		</li>
 	</table>
   </body>
