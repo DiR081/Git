@@ -1,11 +1,8 @@
-from wsgiref.simple_server import make_server
+# Hola Diro
+print('Hola Mundo')
 
-def application(environ, start_response):
-    headers = [('Content-type', 'text/plain; charset=utf-8')]
+def suma(a=0, b=0):
+	"""  Este es la Suma."""
+	print('Suma dos valores...')
+	return a + b
 
-    start_response('200 OK', headers)
-
-    return ['Hola gente de códigofacilito'.encode('utf-8')]
-
-server = make_server('localhost', 8000, application)
-server.serve_forever()
