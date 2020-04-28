@@ -19,6 +19,13 @@ _Puedes marcar las opciones que creas necesarias_
 _Gracias por tu aporte..._
 
 ```
-Suministra un reporte
+Espero te pueda ayudar...
 
 ```
+## Gracias por tu aporte 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invitado a una cerveza 🍺 o un café ☕ en tu lugar favorito. 
+* Gracias 🤓.
+* Bye.
+
